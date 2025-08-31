@@ -1,4 +1,4 @@
-# Compound Interest Calculator 💰
+# Compound Interest Calculator 
 
 A simple Python program to calculate **Compound Interest (CI)** and the **Total Amount (A)** after a given time period.
 
